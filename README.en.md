@@ -353,9 +353,3 @@ CFG = {
 - **Stratified K-Fold** instead of a single split for more stable estimates.
 - **Probability calibration** — `CalibratedClassifierCV` for interpretable thresholds.
 - **Serving** — wrap the best model in FastAPI + Docker for online predictions.
-
----
-
-## 📜 License
-
-MIT — see [LICENSE](LICENSE) if present, or use freely.
